@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: humvee m240 -->
+  <AncientJeep_MainTurret.label>humvee m240</AncientJeep_MainTurret.label>
+  <!-- EN: A machine gun turret mounted on a troop transport. -->
+  <AncientJeep_MainTurret.description>A machine gun turret mounted on a troop transport.</AncientJeep_MainTurret.description>
+  <!-- EN: Select Target.\n\nFire for effect -->
+  <AncientJeep_MainTurret.gizmoDescription>Select Target.
+
+Fire for effect</AncientJeep_MainTurret.gizmoDescription>
+</LanguageData>
