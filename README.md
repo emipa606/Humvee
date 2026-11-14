@@ -1,4 +1,4 @@
-# [Humvee (Continued)]()
+# [Humvee (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3764661857)
 
 ![Image](https://img.litet.net/logos/Info.png)
 
@@ -8,7 +8,7 @@ Update of ARCA-RUSs mod https://steamcommunity.com/sharedfiles/filedetails/?id=3
 	
 ![Image](https://img.litet.net/logos/OriginalDescription.png)
 
-![Image](https://steamuserimages-a.akamaihd.net/ugc/2003592771309761499/26BC85E422C7519B6EE56F123332244787D0CE2F/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false)
+![Image](https://img.litet.net/humvee1.jpg)
 
 
 # Stats
@@ -38,7 +38,7 @@ Update of ARCA-RUSs mod https://steamcommunity.com/sharedfiles/filedetails/?id=3
 [/tr]
 [tr]
 [td]Components[/td]
-[td]![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525825099/1F8B5EFA5E5A5A49BBB0FDC3836C7EE4D0B27A7E/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x1 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525827983/98B8F1FB3D7BE819F13F4AE1C316900E2B0EBAA5/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x8 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525828286/738A6B62734BF82EF901C58874757627DF654403/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x450[/td]
+[td]![Image](https://img.litet.net/humvee2.jpg) x1 ![Image](https://img.litet.net/humvee3.jpg) x8 ![Image](https://img.litet.net/humvee4.jpg) x450[/td]
 [/tr]
 [tr]
 [td]Work to make[/td]
@@ -57,7 +57,7 @@ Update of ARCA-RUSs mod https://steamcommunity.com/sharedfiles/filedetails/?id=3
 [/tr]
 [tr]
 [td]Components[/td]
-[td]![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525825099/1F8B5EFA5E5A5A49BBB0FDC3836C7EE4D0B27A7E/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x1 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525825526/1173578B885D6B14CAFB2D30B701930EC47AF8F1/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x1 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525826741/C6FBA9C6B41456FC21C789F9264F1E1A92855983/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x2 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525827241/2B1AEFD41B5D70D350978AB8F334F753FB2BEF08/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x8 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525827547/5C6FFCB236AEF5A16B683F63499E9CADDF52994A/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x4 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525827983/98B8F1FB3D7BE819F13F4AE1C316900E2B0EBAA5/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x8 ![Image](https://steamuserimages-a.akamaihd.net/ugc/2003593211525828286/738A6B62734BF82EF901C58874757627DF654403/?imw=40&amp;imh=40&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false) x350[/td]
+[td]![Image](https://img.litet.net/humvee2.jpg) x1 ![Image](https://img.litet.net/humvee5.jpg) x1 ![Image](https://img.litet.net/humvee6.jpg) x2 ![Image](https://img.litet.net/humvee7.jpg) x8 ![Image](https://img.litet.net/humvee8.jpg) x4 ![Image](https://img.litet.net/humvee3.jpg) x8 ![Image](https://img.litet.net/humvee4.jpg) x350[/td]
 [/tr]
 [tr]
 [td]Work to make[/td]
@@ -68,13 +68,6 @@ Update of ARCA-RUSs mod https://steamcommunity.com/sharedfiles/filedetails/?id=3
 [td]Construction 6[/td]
 [/tr]
 [/table]
-
-# Last Updated: 4 Jul UTC+09
-[hr] 
-- 1.5 compatible
-- updated patches for VVE, CE 1.5
-
-
 
 ** This mod is CE compatible **
 
@@ -90,4 +83,6 @@ Update of ARCA-RUSs mod https://steamcommunity.com/sharedfiles/filedetails/?id=3
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/Humvee?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3764661857) | combat transport, military vehicle

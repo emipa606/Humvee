@@ -4,8 +4,8 @@
   <AncientJeep_MainTurret.label>humvee m240</AncientJeep_MainTurret.label>
   <!-- EN: A machine gun turret mounted on a troop transport. -->
   <AncientJeep_MainTurret.description>A machine gun turret mounted on a troop transport.</AncientJeep_MainTurret.description>
-  <!-- EN: Select Target.\n\nFire for effect -->
-  <AncientJeep_MainTurret.gizmoDescription>Select Target.
+  <!-- EN: Select a target.\n\nFire for effect. -->
+  <AncientJeep_MainTurret.gizmoDescription>Select a target.
 
-Fire for effect</AncientJeep_MainTurret.gizmoDescription>
+Fire for effect.</AncientJeep_MainTurret.gizmoDescription>
 </LanguageData>
